@@ -1,0 +1,6 @@
+hub:
+  # output of first execution of 'openssl rand -hex 32'
+  cookieSecret: "RANDOMVAL1"
+proxy:
+  # output of second execution of 'openssl rand -hex 32'
+  secretToken: "RANDOMVAL2"
